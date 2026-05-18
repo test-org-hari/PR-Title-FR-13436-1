@@ -3,6 +3,6 @@ updates:
 - package-ecosystem: "npm"
   directory: "/"
   cooldown:
-    default-days: 10
+    default-days: 20
   schedule:
     interval: "daily"
